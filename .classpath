@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src" />
+	<classpathentry exported="true" kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6" />
+	<classpathentry exported="true" kind="lib"
+		path="E:/ncHome/NC_HOME55/ufjdk/jre/lib/rt.jar" />
+	<classpathentry exported="true" kind="lib"
+		path="E:/民太安/fastjson-1.1.41.jar" />
+	<classpathentry exported="true" kind="lib"
+		path="D:/达内资料/老师代码/给学员的jar/commons-dbcp-1.4.jar" />
+	<classpathentry kind="lib"
+		path="D:/达内资料/有用/自己在达内所打的代码/MyEclipse 8.6/JSD1407_JDBC/lib/commons-collections4-4.0.jar" />
+	<classpathentry kind="lib"
+		path="D:/达内资料/有用/自己在达内所打的代码/MyEclipse 8.6/JSD1407_JDBC/lib/commons-dbcp-1.4.jar" />
+	<classpathentry kind="lib"
+		path="D:/达内资料/有用/自己在达内所打的代码/MyEclipse 8.6/JSD1407_JDBC/lib/commons-pool-1.6.jar" />
+	<classpathentry kind="lib"
+		path="D:/达内资料/有用/自己在达内所打的代码/MyEclipse 8.6/JSD1407_JDBC/lib/ojdbc6.jar" />
+	<classpathentry kind="lib"
+		path="D:/360安全浏览器下载/sql server 驱动jar/sqljdbc.jar" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4" />
+	<classpathentry kind="lib"
+		path="E:/ncHome/NC_HOME55/external/lib/jxl.jar" />
+	<classpathentry kind="lib"
+		path="E:/ncHome/nchome/lib/httpclient.jar" />
+	<classpathentry kind="lib"
+		path="E:/ncHome/nchome/framework/mwconfig/nc.bs.framework.tool.config.logger.jar" />
+	<classpathentry kind="lib"
+		path="D:/达内资料/老师代码/13_NETCTOSS/day12/NETCTOSSAll/WebRoot/WEB-INF/lib/log4j-1.2.11.jar" />
+	<classpathentry kind="lib"
+		path="E:/Eclipse/plugins/org.apache.commons.lang_2.1.0.v200803061811.jar" />
+	<classpathentry kind="output" path="bin" />
+</classpath>
